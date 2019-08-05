@@ -1,12 +1,10 @@
 # Real-Time-Face-Recognition
-<h2>Training </h2>
-```
-python3 faces-train.py
-```
+
 
 <h2>Testing </h2>
 ```
-python3 face.py
+cd src/ 
+python manage.py migrate 
 ```
 
 <h2>ScreenShots</h2>
